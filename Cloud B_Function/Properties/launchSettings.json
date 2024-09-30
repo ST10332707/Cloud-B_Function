@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Cloud_B_Function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7275",
+      "launchBrowser": false
+    }
+  }
+}
