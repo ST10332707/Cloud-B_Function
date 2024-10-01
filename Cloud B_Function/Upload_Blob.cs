@@ -7,10 +7,6 @@ using System.IO;
 using System.Threading.Tasks;
 using System;
 
-//using Microsoft.Azure.WebJobs;
-//using Microsoft.Azure.WebJobs.Extensions.Http;
-//using Newtonsoft.Json;
-
 namespace Cloud_B_Function
 {
     public static class Upload_Blob
